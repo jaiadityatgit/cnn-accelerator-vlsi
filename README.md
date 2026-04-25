@@ -140,5 +140,27 @@ Image → Line Buffer → MAC Array → Accumulator → Output
 
 This project demonstrates how CNN operations can be mapped from software to hardware using parallel MAC-based architectures, similar to real-world AI accelerators.
 
+\---
 
+
+
+\## 📸 Outputs
+
+
+
+\### 🖼️ Processed Image
+
+!\[Output](python/result.png)
+
+
+
+\### 📊 Performance Graph
+
+!\[Performance](python/performance.png)
+
+
+
+\### ⚡ Scalability / Speed
+
+!\[Scalability](scalability.png)
 
