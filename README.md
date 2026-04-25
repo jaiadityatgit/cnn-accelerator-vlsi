@@ -162,5 +162,5 @@ This project demonstrates how CNN operations can be mapped from software to hard
 
 \### ⚡ Scalability / Speed
 
-!\[Scalability](scalability.png)
+!\[Scalability](python/scalability.png)
 
